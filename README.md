@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a66c2&height=200&section=header&text=Akash%20Maurya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=coder_with_bca%20%C2%B7%20Learning%20to%20code%20%C2%B7%20Building%20in%20public&descAlignY=58&descSize=17&animation=none" alt="Akash Maurya - coder_with_bca" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a66c2&height=200&section=header&text=Akash%20Maurya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=coder_with_bca%20%C2%B7%20Learning%20to%20code%20%C2%B7%20Building%20in%20public&descAlignY=58&descSize=17&animation=fadeIn" alt="Akash Maurya - coder_with_bca" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,6 +7,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Learning+C+and+Python+fundamentals;Exploring+HTML%2C+CSS+and+JavaScript;Building+small+real+projects;Sharing+the+journey+as+coder_with_bca" alt="What I am working on" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-C%20%26%20Python-0a66c2?style=for-the-badge&logo=c&logoColor=white" alt="Learning C and Python" />
+  <img src="https://img.shields.io/badge/Exploring-Web%20Dev-1a1b27?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="Exploring web development" />
+  <img src="https://img.shields.io/badge/Building-In%20Public-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Building in public" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a66c2,100:0d1117&height=4&section=header&animation=scaleIn" width="100%" alt="" />
 
 ## About Me
 
@@ -20,7 +28,7 @@ I'm a beginner programmer learning by building. I share coding explanations, tec
 ## Tech I'm Working With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&perline=8" alt="C, Python, HTML, CSS, JavaScript, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&perline=8&theme=dark" alt="C, Python, HTML, CSS, JavaScript, Git, GitHub, VS Code" />
 </p>
 
 ## Featured Projects
@@ -46,8 +54,8 @@ I'm a beginner programmer learning by building. I share coding explanations, tec
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=coder-with-bca&theme=tokyonight&hide_border=true&show_icons=true&hide_rank=true&disable_animations=true" alt="Akash Maurya's public GitHub activity statistics" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=coder-with-bca&theme=tokyonight&hide_border=true&layout=compact&disable_animations=true" alt="Language usage across public repositories" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=coder-with-bca&theme=tokyonight&hide_border=true&show_icons=true&hide_rank=true" alt="Akash Maurya's public GitHub activity statistics" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=coder-with-bca&theme=tokyonight&hide_border=true&layout=compact" alt="Language usage across public repositories" height="165" />
 </p>
 
 ## Connect With Me
@@ -66,7 +74,7 @@ I'm a beginner programmer learning by building. I share coding explanations, tec
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a66c2&height=120&section=footer&animation=none" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a66c2&height=120&section=footer&animation=twinkling" alt="" width="100%"/>
 </div>
 
 <p align="center"><em>Small projects. Clear basics. Steady progress.</em></p>
