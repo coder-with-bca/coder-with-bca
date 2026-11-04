@@ -1,30 +1,24 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071426,45:0B3150,100:00C8E8&text=AKASH%20MAURYA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODER%20WITH%20BCA%20%7C%20LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SHARE&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Akash Maurya - Coder With BCA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:123B65,100:7137A8&text=AKASH%20MAURYA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODER%20WITH%20BCA%20%E2%80%A2%20LEARN%20%7C%20BUILD%20%7C%20SHARE&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Akash Maurya"/>
 
 <a href="https://github.com/coder-with-bca">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Akash+Maurya+%F0%9F%91%8B;Welcome+to+Coder+With+BCA;BCA+Student+%7C+Aspiring+Developer;Learn+%E2%80%A2+Build+%E2%80%A2+Improve;Turning+Ideas+Into+Real+Projects" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Akash+Maurya+%F0%9F%91%8B;BCA+Undergraduate+%7C+Aspiring+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+Ideas+Into+Real+Projects;Welcome+To+My+Coding+Journey!" alt="Animated introduction"/>
 </a>
 
 <p>
-<a href="https://github.com/coder-with-bca"><img src="https://img.shields.io/badge/GitHub-coder--with--bca-0B1930?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
-<a href="https://www.instagram.com/coder_with_bca"><img src="https://img.shields.io/badge/Instagram-coder__with__bca-0B1930?style=for-the-badge&logo=instagram&logoColor=00D9FF"/></a>
-<a href="https://youtube.com/@coder_with_bca"><img src="https://img.shields.io/badge/YouTube-Coder_With_BCA-0B1930?style=for-the-badge&logo=youtube&logoColor=00D9FF"/></a>
+<a href="https://github.com/coder-with-bca"><img src="https://img.shields.io/badge/GitHub-coder--with--bca-161B22?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.instagram.com/coder_with_bca"><img src="https://img.shields.io/badge/Instagram-coder__with__bca-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://youtube.com/@coder_with_bca"><img src="https://img.shields.io/badge/YouTube-Coder_With_BCA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=coder-with-bca&style=flat-square&color=00BFEA&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=coder-with-bca&style=for-the-badge&color=7137A8&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT%20ME-00C8E8?style=flat-square" />
-
-### Hey! I'm Akash Maurya 👋
-
-I'm a BCA undergraduate exploring programming, web development and modern technology.
-
-Through **Coder With BCA**, I share my coding journey, beginner-friendly tech knowledge and projects.
+## 👨‍💻 About Me
 
 ```python
 class AkashMaurya:
@@ -33,33 +27,40 @@ class AkashMaurya:
     role = "BCA Undergraduate"
     country = "India"
 
-    learning = [
+    currently_learning = [
         "C Programming",
         "Python",
-        "HTML & CSS",
+        "HTML",
+        "CSS",
         "JavaScript"
     ]
 
     interests = [
         "Web Development",
-        "Technology",
         "Building Projects",
+        "Technology",
         "Content Creation"
     ]
 
     motto = "Learn. Build. Improve. Repeat."
+
+print("Welcome to my GitHub!")
 ```
 
+I'm a BCA undergraduate exploring the world of programming and technology.
+
+I enjoy learning new concepts, experimenting with code, building practical projects, and sharing my journey through **Coder With BCA**.
+
 - 🎓 BCA Undergraduate
-- 💻 Exploring programming fundamentals
-- 🌐 Learning frontend development
-- 🚀 Building practical projects
-- 🎥 Creating tech content
-- 📚 Learning something new every day
+- 💻 Learning programming fundamentals
+- 🌐 Exploring frontend and web development
+- 🛠️ Building beginner-friendly projects
+- 🎥 Sharing technology content
+- 🚀 Improving one project at a time
 
 ---
 
-## <img src="https://img.shields.io/badge/02-TECH%20STACK-00C8E8?style=flat-square" />
+## ⚡ Tech Stack & Learning Roadmap
 
 <div align="center">
 
@@ -71,26 +72,28 @@ class AkashMaurya:
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
 
-### Tools & Technologies
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
 
 </div>
 
+### My Learning Progress
+
 <p align="center">
-<img src="https://img.shields.io/badge/C-LEARNING-0B1930?style=for-the-badge&logo=c&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-0B1930?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/C%20Programming-Learning-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-EXPLORING-0B1930?style=for-the-badge&logo=html5&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/CSS-EXPLORING-0B1930?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/JS-EXPLORING-0B1930?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/HTML-Exploring-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-Exploring-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Exploring-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## <img src="https://img.shields.io/badge/03-FEATURED%20PROJECTS-00C8E8?style=flat-square" />
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -103,13 +106,11 @@ A browser-based habit tracker designed to help users build consistency.
 - Daily habit check-ins
 - Progress tracking
 - Export options
-- Switchable themes
+- IPL and anime themes
 
-**Tech Stack**
+**Technologies:** HTML, CSS, JavaScript
 
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/coder-with-bca/HabitLoop">View Project →</a>
+<a href="https://github.com/coder-with-bca/HabitLoop">Explore Project →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -123,15 +124,12 @@ A digital ebook storefront project by Akki & Aadi.
 - Book previews
 - Digital product experience
 
-**Tech Stack**
+**Technologies:** HTML, CSS, JavaScript
 
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/coder-with-bca/crazy-ebook">View Project →</a>
+<a href="https://github.com/coder-with-bca/crazy-ebook">Explore Project →</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -143,18 +141,16 @@ A browser-based chat starter project exploring modern web technologies.
 - Web Crypto API exploration
 - Browser-based experience
 
-**Tech Stack**
+**Technologies:** JavaScript, Supabase
 
-`JavaScript` `Supabase`
-
-<a href="https://github.com/coder-with-bca/Secret-Chat">View Project →</a>
+<a href="https://github.com/coder-with-bca/Secret-Chat">Explore Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💡 More Projects</h3>
+<h3>💡 More Experiments</h3>
 
-More ideas, experiments and coding projects are part of my learning journey.
+I'm continuously practising, exploring new ideas, and building projects as I learn.
 
 <a href="https://github.com/coder-with-bca?tab=repositories">Explore All Repositories →</a>
 
@@ -164,68 +160,56 @@ More ideas, experiments and coding projects are part of my learning journey.
 
 ---
 
-## <img src="https://img.shields.io/badge/04-CURRENT%20FOCUS-00C8E8?style=flat-square" />
-
-```text
-╔══════════════════════════════════╗
-║        MY DEVELOPER JOURNEY      ║
-╠══════════════════════════════════╣
-║                                  ║
-║  > Strengthening C fundamentals ║
-║  > Practising Python             ║
-║  > Learning Web Development      ║
-║  > Building Real Projects        ║
-║  > Exploring New Technologies    ║
-║                                  ║
-╚══════════════════════════════════╝
-```
-
----
-
-## <img src="https://img.shields.io/badge/05-CREATOR%20SPACE-00C8E8?style=flat-square" />
+## 📈 My GitHub Activity
 
 <div align="center">
 
-### CODER WITH BCA
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-with-bca&bg_color=080B16&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=123B65&hide_border=true&custom_title=Akash%27s%20Contribution%20Journey" width="100%" alt="Animated GitHub Contribution Activity Graph"/>
 
-*Beginner Tech & Coding — From Zero to BCA.*
+</div>
+
+---
+
+## 🎬 Coder With BCA — Creator Space
+
+<div align="center">
 
 <a href="https://youtube.com/@coder_with_bca">
-<img src="https://img.shields.io/badge/YOUTUBE-WATCH%20VIDEOS-0B1930?style=for-the-badge&logo=youtube&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/YOUTUBE-Watch%20My%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <a href="https://www.instagram.com/coder_with_bca">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW%20ME-0B1930?style=for-the-badge&logo=instagram&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow%20My%20Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
 
-I share coding explanations, tech knowledge, project updates and my journey as a BCA student.
+I share coding concepts, beginner-friendly tech explanations, project updates, and lessons from my learning journey.
 
 ---
 
-## <img src="https://img.shields.io/badge/06-LET'S%20CONNECT-00C8E8?style=flat-square" />
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/coder-with-bca">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-0B1930?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.instagram.com/coder_with_bca">
-<img src="https://img.shields.io/badge/INSTAGRAM-CONNECT-0B1930?style=for-the-badge&logo=instagram&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
 </a>
 
 <a href="https://youtube.com/@coder_with_bca">
-<img src="https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-0B1930?style=for-the-badge&logo=youtube&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C8E8,50:0B3150,100:071426&section=footer" width="100%" alt="Cyan and navy footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7137A8,50:123B65,100:080B16&section=footer" width="100%" alt="Footer"/>
 
-### `{ > _ }` CODE. CREATE. REPEAT.
+### "Small Projects. Strong Fundamentals. Bigger Ambitions."
 
-**Small Projects. Strong Fundamentals. Bigger Ambitions.**
+**Thanks for visiting my profile! ⭐**
 
 </div>
