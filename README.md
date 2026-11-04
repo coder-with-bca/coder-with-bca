@@ -18,35 +18,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```python
-class AkashMaurya:
-    name = "Akash Maurya"
-    username = "coder-with-bca"
-    role = "BCA Undergraduate"
-    country = "India"
-
-    currently_learning = [
-        "C Programming",
-        "Python",
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ]
-
-    interests = [
-        "Web Development",
-        "Building Projects",
-        "Technology",
-        "Content Creation"
-    ]
-
-    motto = "Learn. Build. Improve. Repeat."
-
-print("Welcome to my GitHub!")
-```
-
 I'm a BCA undergraduate exploring the world of programming and technology.
 
 I enjoy learning new concepts, experimenting with code, building practical projects, and sharing my journey through **Coder With BCA**.
@@ -70,7 +41,13 @@ I enjoy learning new concepts, experimenting with code, building practical proje
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
+<div align="center">
+
+<a href="https://github.com/coder-with-bca">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-with-bca&bg_color=080B16&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=123B65&hide_border=true&custom_title=Akash%27s%20GitHub%20Activity" width="100%" alt="Akash's GitHub Activity Graph"/>
+</a>
+
+</div>
 
 ### Tools & Platforms
 
