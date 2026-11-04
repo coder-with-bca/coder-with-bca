@@ -20,32 +20,7 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AkashMaurya:
-    name = "Akash Maurya"
-    username = "coder-with-bca"
-    role = "BCA Undergraduate"
-    country = "India"
 
-    currently_learning = [
-        "C Programming",
-        "Python",
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ]
-
-    interests = [
-        "Web Development",
-        "Building Projects",
-        "Technology",
-        "Content Creation"
-    ]
-
-    motto = "Learn. Build. Improve. Repeat."
-
-print("Welcome to my GitHub!")
-```
 
 I'm a BCA undergraduate exploring the world of programming and technology.
 
