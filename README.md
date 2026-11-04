@@ -132,19 +132,6 @@ I'm continuously practising, exploring new ideas, and building projects as I lea
 ---
 
 
-## 📈 My GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/coder-with-bca">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-with-bca&bg_color=080B16&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=123B65&hide_border=true&custom_title=Akash%27s%20GitHub%20Activity" width="100%" alt="Akash's GitHub Activity Graph"/>
-</a>
-
-</div>
-
----
-
----
 
 ## 🎬 Coder With BCA — Creator Space
 
